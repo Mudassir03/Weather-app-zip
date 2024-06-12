@@ -1,4 +1,4 @@
-# ⛅ React Weather App (made by Akram Khan) ⚛️
+# ⛅ React Weather App 
 
 -✅ API used - https://openweathermap.org/api/one-call-api \
 -✅ Animation library for JS - https://animejs.com/ \
