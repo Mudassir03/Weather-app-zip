@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="App">
       {/*Search bar */}
-      <Search defaultData="HYDERABAD" />
+      <Search defaultData="Hyderabab" />
     </div>
   );
 }
